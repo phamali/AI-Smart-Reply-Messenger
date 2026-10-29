@@ -1,7 +1,7 @@
 # **AIChat**
 
 ### **Authors**  
-Eddie, Tiffany, Julian, Dareenat, Alisha  
+Alisha, Eddie, Tiffany, Julian, Dareenat
 
 ---
 
